@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-Hi, I'm ** Yashwant Ray**, an aspiring **Data Analyst & Full Stack Developer (MERN)** with a strong interest in turning raw data into meaningful insights.
+Hi, I'm  Yashwant Ray , an aspiring **Data Analyst & Full Stack Developer (MERN)** with a strong interest in turning raw data into meaningful insights.
 
 I am currently learning and building projects in:
 

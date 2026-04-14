@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio – Ray
+# 📊 Data Analyst Portfolio – Yashwant Ray
 
 ## 👤 About Me
 
